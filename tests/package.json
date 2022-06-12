@@ -1,0 +1,17 @@
+{
+  "name": "barbershop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Warley",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "6.3.1"
+  }
+}

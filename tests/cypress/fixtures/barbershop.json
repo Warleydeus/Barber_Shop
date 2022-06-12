@@ -1,0 +1,14 @@
+{
+    "signup": {
+    "nome":"Zé Mané",
+    "email":"zemane@test.com",
+    "password":"senha123"
+},
+
+"email_inv": {
+    "nome":"Zé Mané",
+    "email":"zemane.test.com",
+    "password":"senha123"
+}
+
+}

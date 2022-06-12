@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+tmp
+.env
+cypress/videos
+cypress/screenshots
+cypress.env.json
+package.json
